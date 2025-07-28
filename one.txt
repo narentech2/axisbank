@@ -4,4 +4,5 @@ This is the thrird line from remote repo
 This is from the local repo
 this is from the remote repo
 This is the last line to pull
+This is the line for fetch testing
 
